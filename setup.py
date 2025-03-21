@@ -11,7 +11,7 @@ setup(
     package_dir={'': 'src'},
     install_requires=[
         'fastapi'
-        'holidays'
+        'pycountry'
         'uvicorn'
         'asyncio',
     ],
